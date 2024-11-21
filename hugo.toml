@@ -1,0 +1,4 @@
+baseURL = 'https://chiou-rung.github.io/'
+languageCode = 'en-us'
+title = 'chiou rung Hugo Site'
+theme = "ananke"

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on chiou rung Hugo Site</title>
+    <link>https://chiou-rung.github.io/posts/</link>
+    <description>Recent content in Posts on chiou rung Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://chiou-rung.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
